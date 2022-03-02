@@ -1,16 +1,28 @@
-### Hi there 👋
+# Fabrizzio De Bracamonte 👨‍💻
 
-<!--
-**fabrizziodbc/fabrizziodbc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi there 👋,
+
+### I'm Fabrizzio, JavaScript FullStack Developer and tech lover. 
+-------
+  
+## 🧐 About
+
+- 💖 I love to play basketball and also do Muay Thai.
+- 🚀 I love to learn, so I'm always taking courses, reading books, and putting that knowledge into practice.
+- 👀 And Many More...
+
+## Skills
+- 👨‍💻 TypeScript, JavaScript
+- ⚙️ React, NodeJS
+- 👁️ SASS, CSS, Styled-components
+- 💽 PostgreSQL, MongoDB
+- 👀 Firebase, React Native, Redux Toolkit
+
+
+# <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
+- 💬 Ask me about anything and everything!
+- 📫 How to reach me: Email me at [fabrizziodbc@gmail.com](mailto:fabrizziodbc@gmail.com) or let's connect on [Linkedin](https://www.linkedin.com/in/fabrizziodbc/) 
+
